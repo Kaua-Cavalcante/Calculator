@@ -19,10 +19,15 @@ body {
 }
 
 .input {
-    padding: 35px 220px;
+    padding: 20px 10px 45px 0px;
+    height: 35px;
+    width: 440px;
     margin-bottom: 20px;
     border: solid 1px rgba(0, 0, 0, 0.2);
     transition: all ease-in-out 0.3s;
+    font-size: 30px;
+    color: #323232;
+    text-align: right;
 }
 
 .input:hover {
